@@ -89,7 +89,7 @@
   <div class="container">
     <div class="paper">
       <div class="lines">
-        <div class="text" contenteditable spellcheck="false">
+        <div id="editor" onkeydown="onKeyDown(event)" class="text" contenteditable spellcheck="false">
           Texto...</div>
       </div>
       <div class="holes hole-top"></div>
@@ -98,6 +98,27 @@
     </div>
   </div>
 
+  <script>
+    function onKeyDown(e) {
+      if (e.keyCode === 9) { // tab key
+        e.preventDefault();  // this will prevent us from tabbing out of the editor
+
+        // now insert four non-breaking spaces for the tab key
+        var editor = document.getElementById("editor");
+        var doc = editor.ownerDocument.defaultView;
+        var sel = doc.getSelection();
+        var range = sel.getRangeAt(0);
+
+        var tabNode = document.createTextNode("\u00a0\u00a0");
+        range.insertNode(tabNode);
+
+        range.setStartAfter(tabNode);
+        range.setEndAfter(tabNode);
+        sel.removeAllRanges();
+        sel.addRange(range);
+      }
+    }
+  </script>
 </body>
 
 </html>
