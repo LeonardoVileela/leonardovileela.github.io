@@ -120,15 +120,12 @@ body {
 	margin: 30px 0;
 }
 .tags span {
-	font-size: 1rem;
-	font-weight: 400;
+	font-size: 1.3rem;
+	font-weight: 600;
 	color: #3e3e3e;
-	padding: 4px;
+	border: 1px solid #ccc;
 	border-radius: 3px;
-	margin-bottom: 10px;
-	margin-top: 10px;
-	margin-right: 6px;
-	margin-left: 6px;
+	margin: 6px;
 }
 .banner {
 	display: flex;
