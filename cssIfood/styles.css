@@ -130,16 +130,13 @@ body {
 .tags a:hover {
 	color: #6b6a6a;
 }
-.banner {
-	display: flex;
-	justify-content: center;
-	padding: 20px;
-}
+
 .banner img {
 	width: 100%;
-	max-width: 390px;
+	max-width: 340px;
 	margin: 0 10px;
 	transition: 0.2s;
+
 }
 .banner img:hover {
 	transform: scale(1.02);
