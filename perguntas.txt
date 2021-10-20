@@ -1,0 +1,355 @@
+nome.
+como você se chama?.
+como vc se chama?.
+quantos anos vc tem?.
+quantos anos você tem?.
+qual sua idade?.
+qual tua idade?.
+você sabe inglês?.
+você fala inglês?.
+você sabe ingles?.
+você fala ingles?.
+vc sabe inglês?.
+vc fala inglês?.
+tu sabe inglês?.
+tu fala inglês?.
+você é um humano?.
+vc é um humano?.
+você é humana?.
+vc é humana?.
+você guarda meus dados?.
+você armazena meus dados?.
+você fica com meus dados?.
+você proteje os meus dados?.
+quem te criou?.
+quem fez você?.
+quem fez vc?.
+quem te programou?.
+que é seu criador?.
+você sabe falar algum idioma?.
+qual idioma você fala?.
+você quais idiomas?.
+você fala qual língua?.
+quais línguas você sabe?.
+você tem mãe?.
+você tem pai?.
+qual sua mãe?.
+qual seu pai?.
+em que país você mora?.
+onde você mora?.
+onde você vive?.
+em que país você vive?.
+com quantas pessoas você fala?.
+você fala com quantas pessoas?.
+me conta uma piada.
+me diz uma piada.
+fala uma piada.
+papai noel existe?.
+existe papai noel?.
+qual seu filme favorito?.
+qual seu filme preferido?.
+gosta de qual filme?.
+qual sua série favorito?.
+qual ssua série preferida?.
+gosta de qual série?.
+qual música você gosta?.
+qual musica você gosta?.
+qual sua musica preferida?.
+qual sua música preferida?.
+qual sua música favorita?.
+qual sua musica favorita?.
+qual musica você gosta?.
+qual estilo musical você gosta?.
+qual banda você gosta?.
+quero falar com um humano.
+desejo falar com um humano.
+como posso falar com um humano?.
+quero um humano.
+quero falar com uma pessoa.
+desejo falar com uma pessoa.
+como posso falar com uma pessoa?.
+quero uma pessoa.
+quero falar com um atendente.
+desejo falar com um atendente.
+como posso falar com um atendente?.
+quero um atendente.
+quero falar com um funcionário.
+desejo falar com um funcionário.
+como posso falar com um funcionário?.
+quero um funcionário.
+qual o endereço?.
+qual o endereço de vocês?.
+qual o endereco?.
+qual o endereco de vocês?.
+onde fica?.
+fica perto da rua?.
+fica no bairro?.
+fica na cidade?.
+qual a localização?.
+onde fica localizado?.
+onde fica o escritório?.
+onde fica o escritorio?.
+onde fica o escritorio?.
+onde fica o escritorio?.
+onde posso encontrar vocês?.
+qual o local de vocês?.
+me manda a localização.
+me manda a localizacao.
+me manda a localizaçao.
+qual o site de vocês?.
+vocês tem site?.
+qual o website de vocês?.
+vocês tem website?.
+qual o instagram de vocês?.
+vocês tem instagram?.
+qual o whatsapp de vocês?.
+vocês tem whatsapp?.
+qual o whats app de vocês?.
+vocês tem whats app?.
+qual a rede social de vocês?.
+vocês tem rede social?.
+qual o telefone de vocês?.
+qual o telefone?.
+vocês tem telefone?.
+qual o celular de vocês?.
+qual o celular?.
+vocês tem celular?.
+qual o número de vocês?.
+qual o número?.
+vocês tem número?.
+vocês tem numero?.
+qual o email de vocês?.
+qual o email?.
+vocês tem email?.
+gostaria do email.
+poderia me informar o email?.
+qual o e-mail de vocês?.
+qual o e-mail?.
+vocês tem e-mail?.
+gostaria do e-mail.
+como falo com voces.
+como falo com vocês.
+poderia me informar o e-mail?.
+queria um trabalho.
+gostaria de me candidatar a uma vaga de trabalho.
+quero trabalhar na empresa de vocês.
+queria um emprego.
+gostaria de me candidatar a uma vaga de emprego.
+quero um emprego na empresa de vocês.
+onde posso enviar meu curriculum.
+onde posso enviar meu curriculo.
+onde mando meu curriculum.
+onde mando meu curriculo.
+quero um orçamento.
+onde consigo um orçamento?.
+gostaria de um orçamento.
+orçamento.
+quero um orcamento.
+onde consigo um orcamento?.
+gostaria de um orcamento.
+orcamento.
+vocês trabalham em outros estados?.
+vocês atendem em outros estados?.
+vocês trabalham em outro estado?.
+vocês atendem em outro estado?.
+vocês trabalham em outras cidades?.
+vocês atendem em outras cidades?.
+vocês trabalham em outra cidade?.
+vocês atendem em outra cidade?.
+vocês atendem no Acre?.
+vocês atendem em Alagoas?.
+vocês atendem no Amapá?.
+vocês atendem no Amapa?.
+vocês atendem no Amazonas?.
+vocês atendem na Bahia?.
+vocês atendem no Ceará?.
+vocês atendem no Ceara?.
+vocês atendem no Espírito Santo?.
+vocês atendem no Espirito Santo?.
+vocês atendem em Goiás?.
+vocês atendem em Goias?.
+vocês atendem no Maranhão?.
+vocês atendem no Maranhao?.
+vocês atendem no Mato Grosso?.
+vocês atendem no Mato Grosso do Sul?.
+vocês atendem no Minas Gerais?.
+vocês atendem no Pará?.
+vocês atendem no Paraíba?.
+vocês atendem no Paraiba?.
+vocês atendem no Paraná?.
+vocês atendem no Parana?.
+vocês atendem em Pernambuco?.
+vocês atendem no Piauí?.
+vocês atendem no Piaui?.
+vocês atendem no Rio de Janeiro?.
+vocês atendem no Rio Grande do Norte?.
+vocês atendem no Rio Grande do Sul?.
+vocês atendem no Rondônia?.
+vocês atendem no Rondonia?.
+vocês atendem em Roraima?.
+vocês atendem em Santa Catarina?.
+vocês atendem em São Paulo?.
+vocês atendem em Sao Paulo?.
+vocês atendem em Sergipe?.
+vocês atendem no Tocantins?.
+vocês atendem no Distrito Federal?.
+qual seu hobby?.
+você é um homem?.
+você é uma mulher?.
+vocês tem portfólio?.
+onde posso encontrar o portfolio?.
+onde posso encontrar as referências de vocês?.
+onde posso encontrar a referência de vocês?.
+onde posso encontrar as referencias de vocês?.
+onde posso encontrar a referencia de vocês?.
+podem enviar seus projetos realizados?.
+qual são os projetos passados de vocês?.
+qual sua cor favorita?.
+qual sua cor preferida?.
+qual sua comida favorita?.
+qual sua comida preferida?.
+gosta de chocolate?.
+você gosta de esportes?.
+qual esporte você gosta?.
+qual seu esporte favorita?.
+qual seu esporte preferida?.
+quanto tempo demora um projeto?.
+quanto tempo leva um projeto?.
+que tipo de serviços vocês fazem?.
+qual os serviços de vocês?.
+mv construções.
+fale sobre a empresa.
+me fale um pouco sobre a empresa.
+mv construcoes.
+quais são os valores da empresa?.
+qual a data de hoje?.
+qual a data?.
+qual que é a data de hoje?.
+que horas são?.
+você pode me informar a hora?.
+você pode me informar as horas?.
+me fala as horas.
+que dia da semana é hoje?.
+sabe me informar qual dia da semana?.
+me informa o dia da semana.
+dia da semana.
+em que mês estamos?.
+você pode me informar o mês?.
+qual o mês atual?.
+em que mes estamos?.
+você pode me informar o mes?.
+qual o mes atual?.
+vocês fazem projetos com autocad?.
+vocês tem cadistas?.
+autocad.
+projeto.
+Bom dia!.
+Boa tarde!.
+Boa Noite!.
+Olá! Como vai?.
+Ola! Como vai?.
+Oi! Tudo bem?.
+Ola.
+oi.
+hey.
+eae.
+eai.
+opa.
+vocês fazem bases de silo?.
+vocês constroem bases de silo?.
+vocês fazem base de silo?.
+vocês constroem base de silo?.
+silo.
+silos.
+vocês fazem armazéns?.
+vocês constroem armazéns?.
+vocês fazem armazem?.
+vocês constroem armazem?.
+vocês fazem armazens?.
+vocês constroem armazens?.
+vocês fazem moegas?.
+vocês constroem moegas?.
+vocês fazem moega?.
+vocês constroem moega?.
+vocês fazem estruturas metálicas?.
+vocês constroem estruturas metálicas?.
+vocês constroem estrutura metálica?.
+vocês fazem estruturas metalicas?.
+vocês constroem estrutura metalica?.
+vocês fazem instalações elétricas?.
+vocês trabalham com instalações elétricas?.
+vocês fazem elétrica?.
+vocês fazem eletrica?.
+vocês fazem bases de secadores?.
+vocês constroem bases de secadores?.
+vocês fazem base de secador?.
+vocês constroem base de secador?.
+vocês fazem balança rodoviária?.
+vocês constroem balança rodoviária?.
+vocês fazem balanca rodoviaria?.
+vocês constroem balanca rodoviaria?.
+vocês fazem concreto armado?.
+vocês constroem concreto armado?.
+vocês fazem transporte de carga?.
+vocês tem transporte?.
+trabalham com transporte de carga?.
+vocês fazem prédios?.
+vocês constroem prédios?.
+vocês fazem prédio?.
+vocês constroem prédio?.
+vocês fazem predio?.
+vocês constroem predio?.
+vocês fazem predios?.
+vocês constroem predios?.
+vocês fazem apartamentos?.
+vocês constroem apartamentos?.
+vocês fazem apartamento?.
+vocês constroem apartamentos?.
+quero agendar um reunião.
+gostaria de uma reunião.
+agendar reunião.
+quero agendar um reuniao.
+gostaria de uma reuniao.
+agendar reuniao.
+agendar.
+preciso agendar.
+necessito agendar.
+Gostaria de agendar.
+preciso de uma analise de solos.
+preciso de uma analise de solo.
+análise de solo.
+análise de solos.
+terraplanagem.
+teraplanagem.
+terraplanagen.
+teraplanagen.
+reforço para aumento de capacidade?.
+reforco para aumento de capacidade?.
+Os silos possuem algum tipo de reforço para aumento de capacidade?.
+Os silos possuem algum tipo de reforco para aumento de capacidade?.
+Os silos possuem algum tipo de reforço de solo para aumento de capacidade?.
+Os silos possuem algum tipo de reforco de solo para aumento de capacidade?.
+reforço de solo.
+reforco de solo.
+perido de chuva atrapalha.
+período de chuva atrapalha.
+periodo de chuva atrapalha.
+período de chuvas atrapalha.
+periodo de chuvas atrapalha.
+periudo de chuva atrapalha.
+período chuvoso atrapalha.
+periodo chuvoso atrapalha.
+periudo chuvoso atrapalha.
+trabalham com financiamento?.
+fazem financiamento?.
+assessoria para financiamento.
+asessoria para financiamento.
+asesoria para financiamento.
+acessoria para financiamento.
+aseçoria para financiamento.
+acesoria para financiamento.
+financiamento.
+financiar.
+vocês finamciam?.
+vocês financiam?.
+vocês financian?
