@@ -40,8 +40,13 @@
             document.getElementById("myBtn").disabled = true;
             var tamanho = document.getElementById("tamanho").value
             var url = document.getElementById("url").value
-            console.log(url)
+            if(tamanho == ''){
+                return alert("O tamanho não pode ser vazio")
+            }
 
+            if(url == ''){
+                return alert("O Link não pode ser vazio")
+            }
             var settings = {
                 "url": "https://chart.googleapis.com/chart?chs=" + tamanho + "x" + tamanho + "&cht=qr&chl=" + url,
                 "method": "GET",
