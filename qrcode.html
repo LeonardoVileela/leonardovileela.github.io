@@ -41,10 +41,12 @@
             var tamanho = document.getElementById("tamanho").value
             var url = document.getElementById("url").value
             if(tamanho == ''){
+                document.getElementById("myBtn").disabled = false;
                 return alert("O tamanho não pode ser vazio")
             }
 
             if(url == ''){
+                document.getElementById("myBtn").disabled = false;
                 return alert("O Link não pode ser vazio")
             }
             var settings = {
