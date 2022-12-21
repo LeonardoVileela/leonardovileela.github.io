@@ -78,7 +78,7 @@ nav ul li a {
     }
     .back-video {
         width: auto;
-        height: 100%;
+        height: 100vw;
         right: auto;
         bottom: auto;
         position: fixed;
