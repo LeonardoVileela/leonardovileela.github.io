@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="logo.ico" type="image/x-icon">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="hero">
+
+
+        <video autoplay loop muted plays-inline class="back-video" id="video-tag">
+            <source id="video-url" src="supera.mp4" type="video/mp4">
+        </video>
+
+        <nav>
+            <img src="logo.svg" class="logo" alt="">
+            <ul>
+                <li><a href="#">REGISTER</a></li>
+                <li><a href="#">LOGIN</a></li>
+            </ul>
+        </nav>
+
+        <div class="content">
+            <a href="#">Explore</a>
+        </div>
+    </div>
+
+    <script>
+        function myFunction(x) {
+            if (x.matches) { // If media query matches
+                var video = document.getElementById('video-url');
+                video.src = 'supera-mobile.mp4';
+                document.getElementById("video-tag").load();
+                document.getElementById("video-tag").play();
+            } else{
+                var video = document.getElementById('video-url');
+                video.src = 'supera.mp4';
+                document.getElementById("video-tag").load();
+                document.getElementById("video-tag").play();
+            }
+        }
+
+        var x = window.matchMedia("(max-width: 700px)")
+        myFunction(x) // Call listener function at run time
+        x.addListener(myFunction) 
+    </script>
+</body>
+
+</html>
